@@ -1,4 +1,4 @@
-# Customer Segmentation & RFM Analysis
+# Customer Segmentation & Campaign Targeting Analysis
 
 ## 📊 Project Overview
 This project performs customer segmentation using RFM (Recency, Frequency, Monetary) analysis to identify high-value, loyal, and at-risk customers. The goal is to generate actionable business insights to support data-driven decision-making.
